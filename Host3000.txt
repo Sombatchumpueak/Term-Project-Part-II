@@ -1,0 +1,1 @@
+npx json-server --host localhost -p 3000 --watch C:\Users\Admin\OneDrive\Documents\Project_app\flutter_application_3\assets\data.json

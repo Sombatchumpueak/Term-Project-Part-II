@@ -1,0 +1,28 @@
+{
+  "songs": [
+    {
+      "id": "Ms001",
+      "songTitle": "Uptown Funk",
+      "artistName": "Mark Ronson",
+      "album": "Uptown Special",
+      "genre": "Funk, Electronica, Neo-Soul",
+      "image": "https://i1.sndcdn.com/artworks-000105833745-094t1z-t500x500.jpg"
+    },
+    {
+      "id": "Ms002",
+      "songTitle": "See You Again ",
+      "artistName": "Wiz Khalifa",
+      "album": "eiei",
+      "genre": "Charlie Puth ",
+      "image": "https://file.chobrod.com/2019/08/30/K1otwyzD/capture-20190829-201945-caba.png"
+    },
+    {
+      "id": "Ms003",
+      "songTitle": "One Direction",
+      "artistName": "Be careful, Harry",
+      "album": "Night Changes",
+      "genre": "Music Video",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/One_Direction_-_Night_Changes_Single_Cover.png"
+    }
+  ]
+}
